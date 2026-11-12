@@ -70,7 +70,7 @@ Os projetos serão organizados por domínio de segurança e documentados conform
 ### 04. Incident Response
 Projetos voltados à documentação de procedimentos, análise de incidentes, contenção e melhoria contínua dos controles de segurança.
 
-## 📄 Documentação dos projetos
+## Documentação dos projetos
 Cada laboratório contará com dois documentos complementares:
 
 **Technical Documentation**
