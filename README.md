@@ -3,7 +3,6 @@
 ### Identity & Access Management | Azure Security | Cloud Security | Security Operations
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Identity-Microsoft%20Entra-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Security-003B70?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Portfolio-Labs%20%26%20Projects-222222?style=for-the-badge&logo=github" />
 </p>
