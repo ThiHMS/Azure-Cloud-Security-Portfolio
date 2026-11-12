@@ -15,6 +15,13 @@ O objetivo é demonstrar a aplicação prática de conceitos, controles e boas p
 
 Os projetos são desenvolvidos com foco em **Identity and Access Management (IAM), Cloud Security e Security Operations**, considerando requisitos de segurança, riscos operacionais e necessidades do negócio.
 
+Certificações relevantes:
+SC-900, AZ-900, AI-900, MS-900, NSE 1-3, SC-300, CompTIA Security +, 
+
+Em andamento:
+CompTIA CySA+
+Microsoft Certified: Identity And Access Administrator — SC-300
+
 ## Cenário empresarial — Melone Corps
 A Meloni Corps é uma organização fictícia utilizada como ambiente de referência para os laboratórios deste portfólio.
 A empresa encontra-se em processo de modernização de sua infraestrutura tecnológica, adotando serviços em nuvem e soluções Microsoft para gerenciamento de identidades, aplicações e recursos corporativos.
