@@ -23,7 +23,7 @@ CompTIA CySA+
 Microsoft Certified: Identity And Access Administrator — SC-300
 
 ## Cenário empresarial — Melone Corps
-A Meloni Corps é uma organização fictícia utilizada como ambiente de referência para os laboratórios deste portfólio.
+A Melone Corps é uma organização fictícia utilizada como ambiente de referência para os laboratórios deste portfólio.
 A empresa encontra-se em processo de modernização de sua infraestrutura tecnológica, adotando serviços em nuvem e soluções Microsoft para gerenciamento de identidades, aplicações e recursos corporativos.
 
 Durante os projetos, serão simulados problemas e necessidades de segurança, permitindo desenvolver e implementar soluções baseadas em boas práticas do mercado.
